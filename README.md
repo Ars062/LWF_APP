@@ -1,50 +1,44 @@
-# Welcome to your Expo app 👋
+📚 Learn With Fun - AI Learning App
+Welcome to Learn With Fun, an engaging mobile app that combines education and entertainment through the power of AI. Built with React Native + Expo Router, this app offers a smooth, modern experience for learners who want to start or continue their journey effortlessly.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🌟 Features
+🎉 Friendly welcome screen
 
-## Get started
+🚀 Smooth navigation with expo-router
 
-1. Install dependencies
+🔐 Sign up / Log in navigation
 
-   ```bash
-   npm install
-   ```
+🎨 Custom color themes (using Colors.js)
 
-2. Start the app
+📱 Mobile-first design with responsive layouts
 
-   ```bash
-   npx expo start
-   ```
+🧠 Learning powered by AI (conceptual foundation)
 
-In the output, you'll find options to open the app in a
+📸 Preview
+(Add screenshots here: welcome screen, login/signup screens, etc.)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+🧑‍🎓 Introduction Screen
+This screen acts as a landing page with:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+A welcoming message
 
-## Get a fresh project
+A CTA (Call-to-Action) "Get Started" button to navigate to the login page
 
-When you're ready, run:
+A secondary option to go to the Signup page
 
-```bash
-npm run reset-project
-```
+Uses:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+expo-router for page routing
 
-## Learn more
+TouchableOpacity for buttons
 
-To learn more about developing your project with Expo, look at the following resources:
+Custom styling and color theme via Colors.jsx
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+📦 Tech Stack
+React Native with Expo
 
-## Join the community
+Expo Router for navigation
 
-Join our community of developers creating universal apps.
+TypeScript/JavaScript
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Custom Color Constants
