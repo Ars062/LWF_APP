@@ -1,5 +1,6 @@
 📚 Learn With Fun - AI Learning App
 Welcome to Learn With Fun, an engaging mobile app that combines education and entertainment through the power of AI. Built with React Native + Expo Router, this app offers a smooth, modern experience for learners who want to start or continue their journey effortlessly.
+Disclaimer:This is my ongoing Project
 
 🌟 Features
 🎉 Friendly welcome screen
